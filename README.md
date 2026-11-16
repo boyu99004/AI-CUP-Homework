@@ -1,2 +1,2 @@
 # AI-CUP-Homework
-競賽一 player-identification.ipynb
+主要程式碼 player-identification.ipynb
